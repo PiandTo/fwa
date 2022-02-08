@@ -7,7 +7,12 @@ Thus, your web application should provide HTML registration and authentication p
 
 Keywords
 
-Rigor 
+Java EE\n
+Servlet API
+JSP
+JSTL
+Spring Framework
+Rigor
 DB & Data 
 Algorithms & AI 
 Object-oriented programming 
