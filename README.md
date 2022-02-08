@@ -7,9 +7,12 @@ Thus, your web application should provide HTML registration and authentication p
 
 Keywords
 
-Java EE\n
+Java EE
+
 Servlet API
+
 JSP
+
 JSTL
 Spring Framework
 Rigor
