@@ -7,18 +7,13 @@ Thus, your web application should provide HTML registration and authentication p
 
 Keywords
 
-Java EE
-
-Servlet API
-
-JSP
-
-JSTL
-Spring Framework
-Rigor
-DB & Data 
-Algorithms & AI 
-Object-oriented programming 
-Technology integration 
-Security 
-Group & interpersonal 
+1. Java EE
+2. Servlet API
+3. JSP
+4. JSTL
+5. Spring Framework
+6. DB & Data 
+7. Algorithms & AI 
+8. Object-oriented programming 
+9. Technology integration 
+10. Security 
